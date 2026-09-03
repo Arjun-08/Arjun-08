@@ -18,6 +18,12 @@
 
 </div>
 
+### Random Dev Quote
+
+<div align="center">
+<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&category=programming">
+</div>
+
 ### Tech Stack
 
 <div align="center">
@@ -39,8 +45,4 @@
 </div>
 
 
-### Random Dev Quote
 
-<div align="center">
-<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&category=programming">
-</div>
