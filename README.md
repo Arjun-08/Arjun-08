@@ -6,23 +6,30 @@
 
 
 <br>
-
+<table align="center">
+<tr>
 <td align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1200&color=808080&center=true&vCenter=true&width=500&lines=Have+an+idea+or+just+want+to+talk+tech%3F;Let's+connect!" alt="Typing Animation">
 
-<p><i>Have an idea or just want to talk tech? Let's connect!</i></p>
+<br>
 
 <a href="mailto:nvarjunmani07@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://github.com/Arjun-08">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/arjun-sagar-n-v-06865827a/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
+</td>
+</tr>
+</table>
+
 
 </div>
 
