@@ -7,14 +7,22 @@
 
 <br>
 
+<td align="center">
+
+
+<p><i>Have an idea or just want to talk tech? Let's connect!</i></p>
+
+<a href="mailto:nvarjunmani07@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
 <a href="https://github.com/Arjun-08">
-<img src="https://img.shields.io/badge/GitHub-Arjun--08-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/arjun-sagar-n-v-06865827a/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-
 
 </div>
 
