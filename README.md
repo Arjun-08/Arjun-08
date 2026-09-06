@@ -33,13 +33,14 @@
 
 </div>
 
-### Random Dev Quote
 
-<div align="center">
-<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&category=programming">
-</div>
+## Random dev quote
 
-### Tech Stack
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Tech Quote">
+</p>
+
+## Tech Stack
 
 <div align="center">
 
